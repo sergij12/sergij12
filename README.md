@@ -3,7 +3,7 @@
 **Front-end · Android · Automation bots** developer from Ukraine 🇺🇦
 I build websites, mobile apps and bots that save businesses time and money.
 
-💼 **Open to freelance projects** — contact: _add Upwork / Telegram / email here_
+💼 **Open to freelance projects**
 
 ## 🛠 What I do
 
@@ -16,7 +16,7 @@ I build websites, mobile apps and bots that save businesses time and money.
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**Coffee Time**](https://github.com/sergij12/coffee-time) | Coffee shop website with cart, Stripe payment, loyalty program and admin panel | React, Vite, Supabase, Stripe |
+| [**Coffee Time**](https://github.com/sergij12/coffee-time) | Coffee shop website with cart, Stripe payment, loyalty program and admin panel · [live demo](https://coffeetime1-one.vercel.app/) | React, Vite, Supabase, Stripe |
 | [**Emergency Support**](https://github.com/sergij12/EmergencySupportApp4) | Android app with emergency plans, checklist and AI assistant | Kotlin, Compose, Room, Gemini |
 
 ## 🧰 Tech
